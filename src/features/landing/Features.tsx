@@ -23,17 +23,17 @@ const FeatureCard = ({ icon, title, description }: FeatureProps) => (
 export default function Features() {
   const features = [
     {
-      icon: "public",
+      icon: "/Pasted Image.png",
       title: "Global Coverage",
-      description: "Access data from over 4&K every 15 minutes.",
+      description: "Access data from over J&K every 15 minutes.",
     },
     {
-      icon: "location_on",
+      icon: "/globe.svg",
       title: "Hyper-local Data",
       description: "Breathe uses AI-driven interpolation to provide accurate air quality estimates for your specific street corner.",
     },
     {
-      icon: "groups",
+      icon: "/images/Screenshot_2026-03-30_12-02-49.png",
       title: "Community Driven",
       description: "Open data for an open world. Contribute your own sensor data or help audit the global network.",
     },
