@@ -9,7 +9,7 @@ export default function Team() {
     {
       name: "Aaditya Gupta",
       role: "Hardware Engineer",
-      link: "https://flashwreck.tech/"
+      link: "https://flashwreck.tech/",
       img: "/images/Screenshot_2026-04-01_00-01-19.png",
     },
     {
