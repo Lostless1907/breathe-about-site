@@ -4,21 +4,25 @@ export default function Team() {
       name: "Siddharth Sharma",
       role: "Software and App Dev",
       link: "https://sidharthify.me/",
+      img: "/images/Screenshot_2026-03-31_23-28-36.png",
     },
     {
       name: "Aaditya Gupta",
       role: "Hardware Engineer",
       link: "https://flashwreck.tech/"
+      img: "/images/Screenshot_2026-04-01_00-01-19.png",
     },
     {
       name: "Veer Pratap Singh",
       role: "ML Scientist and Web Dev",
       link: "https://github.com/Lostless1907",
+      img: "public/images/Screenshot_2026-02-09_15-15-10.png",
     },
     {
       name: "Altair Sheikh",
       role: "Community ",
       link: "https://www.linkedin.com/in/altairirfan/",
+      img: ""
     },
   ];
 

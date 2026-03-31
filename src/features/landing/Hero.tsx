@@ -35,7 +35,7 @@ export default function Hero() {
           <div className="rounded-xl overflow-hidden shadow-2xl shadow-primary/10 border border-outline-variant/10">
             <img 
               className="w-full h-[600px] object-cover grayscale-[20%] hover:grayscale-0 transition-all duration-700" 
-              src="https://www.google.com/imgres?q=google%20images%20kishtwar%20views&imgurl=https%3A%2F%2Fwww.researchgate.net%2Fpublication%2F371756105%2Ffigure%2Ffig1%2FAS%3A11431281169545399%401687391000214%2FKishtwar-High-Altitude-National-Park-of-Jammu-Kashmir-India-Photo-S-Zaheer.png&imgrefurl=https%3A%2F%2Fwww.researchgate.net%2Ffigure%2FKishtwar-High-Altitude-National-Park-of-Jammu-Kashmir-India-Photo-S-Zaheer_fig1_371756105&docid=MEw1pTOHBsIxrM&tbnid=_Luhro5AIPbyoM&vet=12ahUKEwjE_9TU3sqTAxUVS2wGHdBkPd4QnPAOegQIFBAB..i&w=679&h=546&hcb=2&ved=2ahUKEwjE_9TU3sqTAxUVS2wGHdBkPd4QnPAOegQIFBAB"
+              src="/images/Screenshot_2026-04-01_00-01-46.png"
               alt="Atmospheric mountain view"
             />
           </div>
