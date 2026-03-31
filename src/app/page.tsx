@@ -1,11 +1,12 @@
-import Navbar from "@/components/Navbar";
-import Hero from "@/components/Hero";
-import Mission from "@/components/Mission";
-import Features from "@/components/Features";
-import DataImpact from "@/components/DataImpact";
-import Team from "@/components/Team";
-import FinalCTA from "@/components/FinalCTA";
-import Footer from "@/components/Footer";
+import Navbar from "@/components/layout/Navbar";
+import Footer from "@/components/layout/Footer";
+
+import Hero from "@/features/landing/Hero";
+import Mission from "@/features/landing/Mission";
+import Features from "@/features/landing/Features";
+import DataImpact from "@/features/landing/DataImpact";
+import Team from "@/features/landing/Team";
+import FinalCTA from "@/features/landing/FinalCTA";
 
 export default function Home() {
   return (
